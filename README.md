@@ -1,2 +1,2 @@
 # modernCryptography
-Mainly a deposit for modern ciphers that I program
+Mainly a deposit for programs for modern crypto-systems and tools (for a cryptography research project).
